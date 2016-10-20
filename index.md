@@ -3,7 +3,7 @@ layout: home
 ---
 
 GPU-STREAM is a benchmark used to measure the memory transfer rates to/from capacity memory.
-Unlike other memory bandwidth benchmarks this does *not* include any PCIe transfer time for attatched devices.
+Unlike other memory bandwidth benchmarks this does *not* include any PCIe transfer time for attached devices.
 This benchmark is similar in spirit, and based on, the STREAM benchmark [1] for CPUs.
 
 The choice of one programming model over another should ideally not limit the performance that can be achieved on a device.
