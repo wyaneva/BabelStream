@@ -5,6 +5,6 @@ permalink: /results/
 ---
 
 
-![Fraction of peak](img/heatmap-fraction.jpeg:large)
-![Sustained peak](img/heatmap-peak.jpeg:large)
+![Fraction of peak](https://github.com/UoB-HPC/GPU-STREAM/blob/gh-pages/img/heatmap-fraction.jpeg?raw=true)
+![Sustained peak](https://github.com/UoB-HPC/GPU-STREAM/blob/gh-pages/img/heatmap-peak.jpeg?raw=true)
 
