@@ -3,7 +3,7 @@ layout: home
 ---
 
 GPU-STREAM is a benchmark used to measure the memory transfer rates to/from capacity memory.
-Unlike other memory bandwidth benchmarks this does not include any PCIe transfer time for attatched devices.
+Unlike other memory bandwidth benchmarks this does *not* include any PCIe transfer time for attatched devices.
 This benchmark is similar in spirit, and based on, the STREAM benchmark [1] for CPUs.
 
 The choice of one programming model over another should ideally not limit the performance that can be achieved on a device.
@@ -17,7 +17,7 @@ Currently implemented are:
   - RAJA
   - SYCL
 
-As such this tool can be used as a kind of \textit{Rosetta Stone} which provides both a cross-platform and cross-programming model array of results of achievable memory bandwidth.
+As such this tool can be used as a kind of **Rosetta Stone** which provides both a cross-platform and cross-programming model array of results of achievable memory bandwidth.
 
 [1]: McCalpin, John D., 1995: "Memory Bandwidth and Machine Balance in Current High Performance Computers", IEEE Computer Society Technical Committee on Computer Architecture (TCCA) Newsletter, December 1995.
 
