@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   This benchmark is similar in spirit, and based on, the STREAM benchmark for CPUs.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://uob-hpc.github.io/GPU-STREAM" # the base hostname & protocol for your site
-github_username:  uob-hpc
+github_username:  UoB-HPC/GPU-STREAM
 
 # Build settings
 markdown: kramdown
