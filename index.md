@@ -22,6 +22,10 @@ As such this tool can be used as a kind of **Rosetta Stone** which provides both
 
 [1]: McCalpin, John D., 1995: "Memory Bandwidth and Machine Balance in Current High Performance Computers", IEEE Computer Society Technical Committee on Computer Architecture (TCCA) Newsletter, December 1995.
 
+## Download
+
+The source code is available on [GitHub](https://github.com/UoB-HPC/GPU-STREAM)
+
 ## Run rules
 
 In order to generate a valid GPU-STREAM result, you should obey the following rules:
