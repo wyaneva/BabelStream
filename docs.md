@@ -11,6 +11,7 @@ Build instructions are available in the [README](https://github.com/UoB-HPC/GPU-
 To see the available options when running the benchmark, execute `./gpu-stream-<model> --help`
 
 In summary:
+
 * `--help` (`-h`) Lists these options
 
 * `--list` List the available OpenCL/CUDA devices
