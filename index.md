@@ -9,6 +9,7 @@ This benchmark is similar in spirit, and based on, the STREAM benchmark [1] for 
 The choice of one programming model over another should ideally not limit the performance that can be achieved on a device.
 As such there are multiple implementations in a variety of programming models.
 Currently implemented are:
+
   - OpenCL
   - CUDA
   - OpenACC
