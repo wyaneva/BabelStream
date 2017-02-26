@@ -8,13 +8,13 @@ permalink: /docs/
 Build instructions are available in the [README](https://github.com/UoB-HPC/GPU-STREAM/blob/master/README.md).
 
 ## Running the benchmark
-To see the available options when running the benchmark, execute `./gpu-stream-<model> --help`
+To see the available options when running the benchmark, execute `./<model>-stream --help`
 
 In summary:
 
 * `--help` (`-h`) Lists these options
 
-* `--list` List the available OpenCL/CUDA devices
+* `--list` List the available devices
 
 * `--device INDEX` Select the device to run the benchmark on
 
