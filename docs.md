@@ -14,7 +14,7 @@ In summary:
 
 * `--help` (`-h`) Lists these options
 
-* `--list` List the available OpenCL/CUDA devices
+* `--list` List the available devices
 
 * `--device INDEX` Select the device to run the benchmark on
 
