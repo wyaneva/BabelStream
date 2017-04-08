@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: GPU-STREAM
+title: BabelStream
 email: tom.deakin@bristol.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
   Measure memory transfer rates to/from global device memory on GPUs.
   This benchmark is similar in spirit, and based on, the STREAM benchmark for CPUs.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://uob-hpc.github.io/GPU-STREAM" # the base hostname & protocol for your site
-github_username:  UoB-HPC/GPU-STREAM
+url: "http://uob-hpc.github.io/BabelStream" # the base hostname & protocol for your site
+github_username:  UoB-HPC/BabelStream
 
 # Build settings
 markdown: kramdown

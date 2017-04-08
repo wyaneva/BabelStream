@@ -5,10 +5,10 @@ permalink: /docs/
 ---
 
 ## Compiling the benchmark
-Build instructions are available in the [README](https://github.com/UoB-HPC/GPU-STREAM/blob/master/README.md).
+Build instructions are available in the [README](https://github.com/UoB-HPC/BabelStream/blob/master/README.md).
 
 ## Running the benchmark
-To see the available options when running the benchmark, execute `./gpu-stream-<model> --help`
+To see the available options when running the benchmark, execute `./<model>-stream --help`
 
 In summary:
 
